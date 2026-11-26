@@ -1,0 +1,4 @@
+CLAUDE_CODE            [Claude Code](https://claude.com/claude-code)
+ITERM2                 [iTerm2](https://iterm2.com/)
+CC_STATUSLINE          [cc-statusline](https://github.com/muquit/cc-statusline)
+LICENSE_FILE           [LICENSE.txt](LICENSE.txt)
